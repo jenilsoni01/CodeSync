@@ -20,7 +20,7 @@ const Header = ({ onPageChange }) => {
 
     return (
         <header className="header">
-            <h1 onClick={handleLogoClick} className="logo">CodeShare</h1>
+            <h1 onClick={handleLogoClick} className="logo">CodeSync</h1>
             <div className="header-content">
                 <div className="header-right">
                     <span className="expiry-notice">Text will be automatically erased in 24 hours</span>

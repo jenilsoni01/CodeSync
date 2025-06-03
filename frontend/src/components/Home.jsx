@@ -18,7 +18,7 @@ const Home = () => {
     return (
         <div className="home">
             <div className="home-content">
-                <h1>CodeShare</h1>
+                <h1>CodeSync</h1>
                 <p>Share and collaborate on code in real-time</p>
                 <form onSubmit={handleSubmit} className="search-form">
                     <input
